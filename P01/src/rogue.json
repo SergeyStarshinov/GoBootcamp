@@ -1,0 +1,3152 @@
+{
+	"Level": {
+		"Rooms": [
+			{
+				"Width": 10,
+				"Height": 5,
+				"TopLeftCorner": 14
+			},
+			{
+				"Width": 6,
+				"Height": 5,
+				"TopLeftCorner": 41
+			},
+			{
+				"Width": 6,
+				"Height": 5,
+				"TopLeftCorner": 62
+			},
+			{
+				"Width": 7,
+				"Height": 5,
+				"TopLeftCorner": 554
+			},
+			{
+				"Width": 10,
+				"Height": 5,
+				"TopLeftCorner": 579
+			},
+			{
+				"Width": 9,
+				"Height": 5,
+				"TopLeftCorner": 612
+			},
+			{
+				"Width": 10,
+				"Height": 5,
+				"TopLeftCorner": 1106
+			},
+			{
+				"Width": 5,
+				"Height": 5,
+				"TopLeftCorner": 1129
+			},
+			{
+				"Width": 6,
+				"Height": 5,
+				"TopLeftCorner": 1151
+			}
+		],
+		"Cells": {
+			"100": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1000": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1001": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1002": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1003": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1004": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"101": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1023": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1024": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1025": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1026": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1027": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1028": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1029": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1030": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1031": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1032": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1033": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1034": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1053": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1054": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1055": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1074": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"1106": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1107": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1108": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1109": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1110": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1111": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1112": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"1113": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1114": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1115": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1129": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1130": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1131": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"1132": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1133": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1151": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1152": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"1153": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1154": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1155": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1156": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1184": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1185": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1186": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1187": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1188": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1189": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"119": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1190": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1191": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1192": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1193": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1194": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1195": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1196": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1197": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1198": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1199": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"120": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1200": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1201": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1202": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1203": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1204": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1205": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1206": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1207": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"1208": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1209": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"121": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1210": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1211": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"122": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1229": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"123": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1230": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1231": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1232": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1233": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1234": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"124": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1262": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1263": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1264": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1265": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1266": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1267": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1268": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1269": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1270": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1271": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"1272": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1285": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1286": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1287": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1288": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1289": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"1290": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1291": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1292": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1293": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1294": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1295": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1296": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1297": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1298": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1299": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1300": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1301": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1302": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1303": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1304": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1305": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1306": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"1307": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"1308": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1309": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1310": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1311": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1312": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1340": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1341": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1342": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1343": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1344": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1345": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1346": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1347": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1348": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1349": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1363": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1364": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1365": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1366": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1367": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1385": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1386": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1387": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1388": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1389": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1390": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"14": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"140": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"141": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1418": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1419": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"142": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1420": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1421": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1422": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1423": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1424": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1425": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1426": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1427": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"143": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"144": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"1441": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1442": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1443": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1444": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1445": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"145": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"1463": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1464": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1465": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1466": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1467": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"1468": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"15": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"16": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"17": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"170": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"171": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"172": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"173": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"174": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"175": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"176": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"177": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"178": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"179": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"18": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"19": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"197": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"198": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"199": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"20": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"200": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"201": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"202": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"203": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"204": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"205": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"206": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"207": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"208": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"209": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"21": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"210": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"211": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"212": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"213": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"214": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"215": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"216": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"217": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"218": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"219": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"22": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"220": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"221": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"222": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"223": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"23": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"248": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"249": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"250": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"251": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"252": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"253": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"254": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"255": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"256": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"257": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"258": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"259": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"260": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"261": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"262": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"263": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"264": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"265": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"266": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"267": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"268": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"269": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"270": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"271": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"272": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"273": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"274": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"275": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"276": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"277": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"278": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"279": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"280": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"296": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"297": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"298": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"299": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"300": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"301": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"326": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"327": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"328": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"329": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"330": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"331": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"332": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"333": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"334": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"335": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"353": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"354": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"355": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"356": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"357": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"358": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"374": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"375": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"376": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"377": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"378": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"379": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"41": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"412": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"42": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"43": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"44": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"45": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"454": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"455": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"456": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"457": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"458": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"459": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"46": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"460": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"479": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"480": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"481": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"482": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"483": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"484": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"485": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"486": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"487": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"488": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"489": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"490": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"538": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"554": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"555": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"556": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"557": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"558": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"559": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"560": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"579": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"580": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"581": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"582": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"583": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"584": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"585": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"586": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"587": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"588": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"612": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"613": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"614": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"615": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"616": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"617": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"618": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"619": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"62": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"620": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"63": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"632": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"633": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"634": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"635": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"636": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"637": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"638": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"64": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"641": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"642": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"643": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"644": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"645": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"646": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"647": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"648": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"649": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"65": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"650": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"651": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"652": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"653": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"654": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"655": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"656": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"657": {
+				"Ground": 3,
+				"Visible": true,
+				"Visited": true
+			},
+			"658": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"659": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"66": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"660": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"661": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"662": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"663": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"664": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"665": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"666": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"67": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"690": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"691": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"692": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"693": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"694": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"695": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"696": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"697": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"698": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"710": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"711": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"712": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"713": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"714": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"715": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"716": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"717": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"718": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"719": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"735": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"736": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"737": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"738": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"739": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"740": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"741": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"742": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"743": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"744": {
+				"Ground": 3,
+				"Visible": true,
+				"Visited": true
+			},
+			"745": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"746": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"747": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"748": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"768": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"769": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"770": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"771": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"772": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"773": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"774": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"775": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"776": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"788": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"789": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"790": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"791": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"792": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"793": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"794": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"813": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"814": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"815": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"816": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"817": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"818": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"819": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"820": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"821": {
+				"Ground": 1,
+				"Visible": true,
+				"Visited": false
+			},
+			"822": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"826": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"827": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"828": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"829": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"830": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"831": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"832": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"833": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"834": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"835": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"836": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"837": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"838": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"839": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"840": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"841": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"842": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"843": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"844": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"845": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"846": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"847": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"848": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"849": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"850": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"851": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"852": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"853": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"854": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"866": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"867": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": true
+			},
+			"868": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"869": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"870": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"871": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"872": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": true
+			},
+			"891": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"892": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"893": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"894": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"895": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"896": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"897": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"898": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"899": {
+				"Ground": 3,
+				"Visible": true,
+				"Visited": true
+			},
+			"900": {
+				"Ground": 0,
+				"Visible": true,
+				"Visited": true
+			},
+			"92": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"924": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"925": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"926": {
+				"Ground": 3,
+				"Visible": false,
+				"Visited": false
+			},
+			"927": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"928": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"929": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"93": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"930": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"931": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"932": {
+				"Ground": 0,
+				"Visible": false,
+				"Visited": false
+			},
+			"94": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"945": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": true
+			},
+			"95": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"96": {
+				"Ground": 4,
+				"Visible": false,
+				"Visited": false
+			},
+			"97": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"977": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"98": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"99": {
+				"Ground": 1,
+				"Visible": false,
+				"Visited": false
+			},
+			"996": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"997": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"998": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			},
+			"999": {
+				"Ground": 2,
+				"Visible": false,
+				"Visited": false
+			}
+		},
+		"Items": {
+			"1131": {
+				"ItemType": 2,
+				"Name": "Red Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"1152": {
+				"ItemType": 2,
+				"Name": "Red Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"218": {
+				"ItemType": 4,
+				"Name": "Blue Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"221": {
+				"ItemType": 6,
+				"Name": "Potion of the Phantom's Breath +20 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 20,
+				"Value": 0
+			},
+			"249": {
+				"ItemType": 7,
+				"Name": "Manuscript of Forgotten Truths +15 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 15,
+				"Value": 0
+			},
+			"557": {
+				"ItemType": 4,
+				"Name": "Blue Door",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"662": {
+				"ItemType": 6,
+				"Name": "Potion of the Howling Wind +115 health",
+				"Health": 115,
+				"MaxHealth": 115,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"665": {
+				"ItemType": 8,
+				"Name": "Ironclad Cleaver +28",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 28,
+				"Value": 0
+			},
+			"695": {
+				"ItemType": 8,
+				"Name": "Fang of the Shadow Wolf +37",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 37,
+				"Value": 0
+			},
+			"738": {
+				"ItemType": 5,
+				"Name": "Hardtack of the Endless March +190",
+				"Health": 190,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"740": {
+				"ItemType": 3,
+				"Name": "Blue Key",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			"773": {
+				"ItemType": 6,
+				"Name": "Vial of Crimson Vitality +20 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 20,
+				"Value": 0
+			},
+			"852": {
+				"ItemType": 8,
+				"Name": "Ironclad Cleaver +29",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 29,
+				"Value": 0
+			}
+		},
+		"Enemies": {
+			"176": {
+				"MonsterType": 14,
+				"Name": "Snake-Mage",
+				"Health": 60,
+				"Agility": 50,
+				"Strength": 20,
+				"Hostility": 3,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"222": {
+				"MonsterType": 15,
+				"Name": "Mimic",
+				"Health": 80,
+				"Agility": 45,
+				"Strength": 20,
+				"Hostility": 1,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 7
+			},
+			"256": {
+				"MonsterType": 11,
+				"Name": "Zombie",
+				"Health": 80,
+				"Agility": 35,
+				"Strength": 25,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"298": {
+				"MonsterType": 11,
+				"Name": "Zombie",
+				"Health": 80,
+				"Agility": 35,
+				"Strength": 25,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"769": {
+				"MonsterType": 13,
+				"Name": "Ghost",
+				"Health": 60,
+				"Agility": 45,
+				"Strength": 20,
+				"Hostility": 1,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"816": {
+				"MonsterType": 11,
+				"Name": "Zombie",
+				"Health": 80,
+				"Agility": 35,
+				"Strength": 25,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"821": {
+				"MonsterType": 11,
+				"Name": "Zombie",
+				"Health": 80,
+				"Agility": 35,
+				"Strength": 25,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"848": {
+				"MonsterType": 11,
+				"Name": "Zombie",
+				"Health": 80,
+				"Agility": 35,
+				"Strength": 25,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			},
+			"849": {
+				"MonsterType": 11,
+				"Name": "Zombie",
+				"Health": 80,
+				"Agility": 35,
+				"Strength": 25,
+				"Hostility": 2,
+				"InBattle": false,
+				"FirstHit": false,
+				"Visibility": false,
+				"Resting": false,
+				"ItemMimic": 0
+			}
+		}
+	},
+	"LevelNumber": 1,
+	"Hero": {
+		"Coordinate": 659,
+		"Health": 478,
+		"MaxHealth": 498,
+		"Agility": 80,
+		"Strength": 80,
+		"Weapon": {
+			"ItemType": 0,
+			"Name": "",
+			"Health": 0,
+			"MaxHealth": 0,
+			"Agility": 0,
+			"Strength": 0,
+			"Value": 0
+		},
+		"HasFirstKey": true,
+		"HasSecondKey": false,
+		"Gold": 19,
+		"IsSleeping": false
+	},
+	"Backpack": {
+		"5": [
+			{
+				"ItemType": 5,
+				"Name": "Crimson Berry Cluster +285",
+				"Health": 285,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			}
+		],
+		"6": [
+			{
+				"ItemType": 6,
+				"Name": "Potion of the Howling Wind +20 agility",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 20,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Potion of the Wandering Soul +37 strength",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 37,
+				"Value": 0
+			},
+			{
+				"ItemType": 6,
+				"Name": "Potion of the Howling Wind +150 health",
+				"Health": 150,
+				"MaxHealth": 150,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			}
+		],
+		"7": [
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			}
+		],
+		"8": [
+			{
+				"ItemType": 8,
+				"Name": "Ironclad Cleaver +36",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 36,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Ironclad Cleaver +40",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 40,
+				"Value": 0
+			},
+			{
+				"ItemType": 8,
+				"Name": "Fang of the Shadow Wolf +24",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 24,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			},
+			{
+				"ItemType": 0,
+				"Name": "",
+				"Health": 0,
+				"MaxHealth": 0,
+				"Agility": 0,
+				"Strength": 0,
+				"Value": 0
+			}
+		]
+	},
+	"Effects": {},
+	"SessionStats": {
+		"TotalTreasureCollected": 19,
+		"DeepestLvlReached": 0,
+		"EnemysKilled": 3,
+		"FoodConsumed": 0,
+		"ElixirsConsumed": 0,
+		"ScrollsConsumed": 0,
+		"TotalHitsTaken": 5,
+		"TilesWalked": 169
+	}
+}
